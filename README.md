@@ -23,4 +23,4 @@ El sistema gestiona el ciclo completo del servicio de transporte, aplicando vali
 
 * **Módulo Financiero:**
   * Cierre de caja automatizado.
-  * Reportes de recaudación total y ventas desglosadas por categorpia de servicio.
+  * Reportes de recaudación total y ventas desglosadas por categoría de servicio.
